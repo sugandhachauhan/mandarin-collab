@@ -6,5 +6,5 @@
 - [ ] Use descriptive and meaningful names for variables, function and classes in the source code.
 - [ ] Include unit-tests. Learn about [Pytest](https://docs.pytest.org/en/stable/getting-started.html)  and write a unit-test for the function `division()` in `operations.py`
 - [ ] Include a [CITATION](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) file.
-
+- well well well.. look how the cookie crumbles
 > For more visit: https://tu-delft-dcc.github.io/docs/software/checklist.html
