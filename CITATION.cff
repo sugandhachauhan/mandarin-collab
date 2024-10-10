@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+---
+authors: 
+  -
+    family-names: Yildizli
+    given-names: Tugba
+    
+    family-names: Gesbert
+    given-names:Boris
+
+    family-names: Chauhan
+    given-names: Sugandha
+
+    family-names:Tidjani
+    given-names:Hanifa
+title: "Mandarin Project"
+version: 2.0.4
+doi:xxxx
+date-released:2024-10-10
+url: https:/mandarin.tudelft.nl
